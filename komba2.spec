@@ -7,7 +7,7 @@ License:	GPL
 Group:		X11/Applications/Networking
 Source0:	http://zeus.fh-brandenburg.de/~schwanz/files/%{name}_KDE3-%{version}beta.tar.gz
 URL:		http://zeus.fh-brandenburg.de/~schwanz/php/komba.php3
-BuildRequires:	kdelibs-devel >= 3
+BuildRequires:	kdelibs-devel >= 3.0.3
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Obsoletes:	komba
 
