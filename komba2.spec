@@ -5,8 +5,6 @@ Version:	0.7.2
 Release:	1
 License:	GPL
 Group:		X11/Applications/Networking
-Group(de):	X11/Applikationen/Netzwerkwesen
-Group(pl):	X11/Aplikacje/Sieciowe
 Source0:	http://zeus.fh-brandenburg.de/~schwanz/files/%{name}-%{version}.tar.gz
 URL:		http://zeus.fh-brandenburg.de/~schwanz/php/komba.php3
 BuildRequires:	kdelibs-devel
