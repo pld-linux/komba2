@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		X11/Applications/Networking
 Source0:	http://zeus.fh-brandenburg.de/~schwanz/files/%{name}_KDE3-%{version}beta.tar.gz
+# Source0-md5:	a96dc107b35cd07620667e25cf8f7c59
 URL:		http://zeus.fh-brandenburg.de/~schwanz/php/komba.php3
 BuildRequires:	kdelibs-devel >= 3.0.3
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
