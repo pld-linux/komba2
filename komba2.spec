@@ -1,5 +1,5 @@
 Summary:	Komba - a Samba-Share-browser
-Summary(pl):	Komba - przegl±darka zasobów Samby
+Summary(pl.UTF-8):   Komba - przeglÄ…darka zasobÃ³w Samby
 Name:		komba2
 Version:	0.7.3
 Release:	1
@@ -18,9 +18,9 @@ Obsoletes:	komba
 Komba is a Samba-Share-browser. It can mount an unmount shares from
 win-network and look to other workgroups.
 
-%description -l pl
-Komba to przegl±darka zasobów udostêpnionych przez Sambê. Mo¿e
-montowaæ i odmontowywaæ zasoby sieciowe oraz przegl±daæ inne gruby
+%description -l pl.UTF-8
+Komba to przeglÄ…darka zasobÃ³w udostÄ™pnionych przez SambÄ™. MoÅ¼e
+montowaÄ‡ i odmontowywaÄ‡ zasoby sieciowe oraz przeglÄ…daÄ‡ inne gruby
 sieciowe.
 
 %prep
