@@ -1,5 +1,5 @@
 Summary:	Komba - a Samba-Share-browser
-Summary(pl.UTF-8):   Komba - przeglądarka zasobów Samby
+Summary(pl.UTF-8):	Komba - przeglądarka zasobów Samby
 Name:		komba2
 Version:	0.7.3
 Release:	1
